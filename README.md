@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br>I'm Krish, an Electronics and Computer Engineering student at Thapar University. I love building impactful projects that blend software and intelligence — from MERN stack apps to Machine Learning solutions.<br><br>🔭 Currently working on<br>Full-stack web apps (MERN)<br><br>Machine Learning-driven tools<br><br>DSA-focused problem solving<br><br>🌱 Currently learning<br>Advanced MERN concepts<br><br>Applied Machine Learning<br><br>Systems design fundamentals<br><br>💬 Ask me about<br>MERN stack<br><br>ML project ideas<br><br>DSA strategies<br><br>⚡ Fun fact<br>I enjoy serious builds and spontaneous side quests equally.
+👋 About Me<br>I'm Krish, an Electronics and Computer Engineering student at Thapar University. I love building impactful projects that blend software and intelligence, from MERN stack apps to Machine Learning solutions.<br><br>🔭 Currently working on<br>Full-stack web apps (MERN)<br><br>Machine Learning-driven tools<br><br>DSA-focused problem solving<br><br>🌱 Currently learning<br>Advanced MERN concepts<br><br>Applied Machine Learning<br><br>Systems design fundamentals<br><br>💬 Ask me about<br>MERN stack<br><br>ML project ideas<br><br>DSA strategies<br><br>⚡ Fun fact<br>I enjoy serious builds and spontaneous side quests equally.
 
 
 ## 🌐 Socials:
