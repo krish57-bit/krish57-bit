@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # Krish Kaul
@@ -164,4 +163,3 @@ currently_learning:
 <img src="https://komarev.com/ghpvc/?username=krish57-bit&style=for-the-badge&color=58A6FF" />
 
 </div>
-```
