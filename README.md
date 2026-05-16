@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1120,45:111827,100:2563EB&text=Krish%20Kaul&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=56&desc=Backend%20Engineer%20•%20Distributed%20Systems%20•%20Cloud%20Infrastructure&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1120,45:111827,100:2563EB&text=Krish%20Kaul&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=54&desc=Backend%20Engineer%20•%20Distributed%20Systems%20•%20Cloud%20Infrastructure&descAlignY=58&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Reliable+Backend+Systems;Distributed+Systems+%26+Observability;Cloud+Infrastructure+%26+Monitoring;Real-Time+Architectures+%26+Telemetry;IoT+%2B+AI+Integrated+Workflows" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Backend+Engineering;Distributed+Systems+%26+Observability;Cloud+Infrastructure+%26+Monitoring;Real-Time+Architectures;Building+Reliable+Systems" />
 
 <br/><br/>
 
@@ -16,54 +16,32 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/krish57-bit">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://leetcode.com/u/krish_231/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=krish57-bit&style=flat-square&color=2563EB"/>
 
 </div>
 
 ---
 
-# About
+## About
 
 ```yaml
-name: Krish Kaul
-education: B.E. Electronics & Computer Engineering @ TIET
-location: Patiala, India
-
-focus:
-  - Backend Engineering
-  - Distributed Systems
-  - Cloud Infrastructure
-  - Monitoring & Observability
-  - Real-Time Systems
-  - AI + IoT Workflows
-
-currently_learning:
-  - Kubernetes
-  - System Design
-  - SRE Fundamentals
-  - Scalable Backend Architectures
-
-problem_solving:
-  - 450+ Problems Solved on LeetCode
+Backend Engineer focused on:
+- Distributed Systems
+- Cloud Infrastructure
+- Observability
+- Real-Time Architectures
+- AI + IoT Systems
 ```
 
 ---
 
-# Tech Stack
+## Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,ts,nodejs,express,django,fastapi,react,nextjs,mongodb,postgres,mysql,redis,docker,aws,kubernetes,linux,git,github,postman,tensorflow&perline=11" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,nodejs,express,django,fastapi,react,mongodb,postgres,mysql,redis,docker,aws,kubernetes,linux,git,github,postman,tensorflow&perline=10" />
 
 <br/><br/>
 
@@ -73,67 +51,47 @@ problem_solving:
 
 <img src="https://img.shields.io/badge/CI/CD-111827?style=flat-square&logo=githubactions&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=orange"/>
-
-<img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Monitoring-111827?style=flat-square&logo=grafana&logoColor=orange"/>
 
 </div>
 
 ---
 
-# Featured Engineering Projects
+## Projects
 
-## PARAKH — Real-Time IoT Monitoring System
+### PARAKH
 
-* Built telemetry-driven backend workflows using RFID backscatter sensing
-* Developed preprocessing & monitoring pipelines for anomaly detection
-* Integrated ML workflows with real-time sensor systems
-* Focused on observability, telemetry, and backend integration
+Real-time IoT telemetry & monitoring platform integrating RFID sensing, ML workflows, and backend observability pipelines.
 
----
-
-## Stock Trading & Portfolio Analytics System
-
-* Developed concurrent transaction-processing backend services
-* Built REST APIs for portfolio tracking and order execution
-* Implemented monitoring, logging, and alerting workflows
-* Designed scalable backend analytics pipelines
+`Python` `IoT` `Monitoring` `ML`
 
 ---
 
-## Wanderlust — Cloud-Native Travel Platform
+### Stock Trading System
 
-* Developed scalable backend APIs with authentication workflows
-* Dockerized deployments with CI/CD pipelines on AWS
-* Optimized MongoDB schemas for backend scalability
-* Integrated cloud-based deployment and infrastructure workflows
+Concurrent transaction-processing backend with portfolio analytics, REST APIs, monitoring workflows, and scalable data pipelines.
 
----
-
-## DriveSafeAI — Smart Driving Safety System
-
-* Processed real-time sensor data streams using ML workflows
-* Debugged cross-module integrations using tracing and monitoring
-* Improved backend reliability and validation workflows
-* Worked in Agile development environments
+`Node.js` `MongoDB` `APIs` `Logging`
 
 ---
 
-# Engineering Interests
+### Wanderlust
 
-* Distributed Systems
-* Observability Engineering
-* Cloud Infrastructure
-* Backend Reliability
-* Real-Time Architectures
-* Infrastructure Tooling
-* Monitoring Pipelines
+Cloud-native travel platform with Dockerized deployments, CI/CD pipelines, scalable backend APIs, and authentication systems.
+
+`Docker` `AWS` `Express.js` `MongoDB`
 
 ---
 
-# GitHub Analytics
+### DriveSafeAI
+
+Real-time driving safety system processing sensor telemetry streams with monitoring, tracing, and ML-powered workflows.
+
+`Python` `Real-Time Systems` `Observability`
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
@@ -141,19 +99,15 @@ problem_solving:
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krish57-bit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=krish57-bit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish57-bit&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=krish57-bit&theme=github-dark-blue&hide_border=true&background=0D1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish57-bit&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
 
-# Contribution Activity
+## Activity
 
 <div align="center">
 
@@ -163,7 +117,7 @@ problem_solving:
 
 ---
 
-# Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -176,25 +130,14 @@ problem_solving:
 
 ---
 
-# Experience Highlights
-
-* Ericsson Edge Academia National Cohort
-* American Express Campus Challenge — Product Track (Round 2)
-* Smart India Hackathon Internal Qualifier
-* Convener, Literary Society (LitSoc), TIET
-* Backend & Systems Engineering Intern
-
----
-
-# 2026 Focus
+## Current Focus
 
 ```yaml
-2026_focus:
-  - Backend Scalability
-  - Distributed Systems
-  - Cloud-Native Infrastructure
-  - Observability Engineering
-  - Production-Grade Architectures
+2026:
+- Backend Scalability
+- Distributed Systems
+- Cloud-Native Infrastructure
+- Observability Engineering
 ```
 
 ---
@@ -204,5 +147,3 @@ problem_solving:
 ### “Reliable systems are engineered, not accidental.”
 
 </div>
-::: :contentReference[oaicite:0]{index=0}
-::contentReference[oaicite:1]{index=1}
