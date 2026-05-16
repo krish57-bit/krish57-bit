@@ -1,49 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:111827,100:2563EB&text=Krish%20Kaul&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=54&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Cloud%20Infrastructure&descAlignY=58&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Backend+Engineering+%26+Distributed+Systems;Cloud+Infrastructure+%26+Observability;Real-Time+Systems+%26+Monitoring;IoT+%2B+AI+Integrated+Workflows;Building+Reliable+Systems+That+Scale" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1120,50:111827,100:2563EB&text=Krish%20Kaul&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=56&desc=Backend%20Engineer%20•%20Distributed%20Systems%20•%20Cloud%20Infrastructure&descAlignY=58&animation=fadeIn" width="100%" />
 
 <br/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Reliable+Backend+Systems;Distributed+Systems+%26+Observability;Cloud+Infrastructure+%26+Monitoring;Real-Time+Architectures+%26+Telemetry;IoT+%2B+AI+Integrated+Workflows" />
+
+<br/><br/>
+
 <a href="mailto:krishkaul57@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/krish-kaul-0b6bb3233/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/krish-kaul-0b6bb3233">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/krish57-bit">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/krish_231/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=krish57-bit&style=for-the-badge&color=2563EB"/>
+<img src="https://komarev.com/ghpvc/?username=krish57-bit&style=flat-square&color=2563EB"/>
 
 </div>
 
 ---
 
-# About Me
+# About
 
 ```yaml
 name: Krish Kaul
-education: B.E. Electronics & Computer Engineering @ TIET
+education: Electronics & Computer Engineering @ TIET
 location: Patiala, India
 
-focus_areas:
+focus:
   - Backend Engineering
   - Distributed Systems
   - Cloud Infrastructure
   - Monitoring & Observability
-  - Real-Time Architectures
-  - AI + IoT Systems
+  - Real-Time Systems
+  - AI + IoT Workflows
 
 currently_learning:
   - Kubernetes
@@ -52,7 +54,7 @@ currently_learning:
   - Scalable Backend Architectures
 
 problem_solving:
-  - 450+ LeetCode Problems
+  - 450+ Problems Solved on LeetCode
 ```
 
 ---
@@ -81,27 +83,39 @@ problem_solving:
 ## Stock Trading & Portfolio Analytics System
 
 * Developed concurrent transaction-processing backend services
-* Built REST APIs for portfolio tracking & order execution
+* Built REST APIs for portfolio tracking and order execution
 * Implemented monitoring, logging, and alerting workflows
 * Designed scalable backend analytics pipelines
 
 ---
 
-## Wanderlust — Full-Stack Travel Platform
+## Wanderlust — Cloud-Native Travel Platform
 
 * Developed scalable backend APIs with authentication workflows
-* Dockerized deployment with CI/CD pipelines on AWS
+* Dockerized deployments with CI/CD pipelines on AWS
 * Optimized MongoDB schemas for backend scalability
-* Integrated cloud-based workflows and deployment tooling
+* Integrated cloud-based deployment and infrastructure workflows
 
 ---
 
 ## DriveSafeAI — Smart Driving Safety System
 
 * Processed real-time sensor data streams using ML workflows
-* Debugged cross-module integrations using tracing & monitoring
+* Debugged cross-module integrations using tracing and monitoring
 * Improved backend reliability and validation workflows
 * Worked in Agile development environments
+
+---
+
+# Engineering Interests
+
+* Distributed Systems
+* Observability Engineering
+* Cloud Infrastructure
+* Backend Reliability
+* Real-Time Architectures
+* Infrastructure Tooling
+* Monitoring Pipelines
 
 ---
 
@@ -113,13 +127,13 @@ problem_solving:
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krish57-bit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krish57-bit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish57-bit&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish57-bit&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=krish57-bit&theme=github-dark-blue&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=krish57-bit&theme=github-dark-blue&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -141,7 +155,7 @@ problem_solving:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -154,22 +168,27 @@ problem_solving:
 * American Express Campus Challenge — Product Track (Round 2)
 * Smart India Hackathon Internal Qualifier
 * Convener, Literary Society (LitSoc), TIET
-* Team Lead & Hardware Architect — Capstone Project Group
+* Backend & Systems Engineering Intern
 
 ---
 
-# Current Goals
+# 2026 Focus
 
-* Build production-grade distributed systems
-* Improve backend scalability & observability skills
-* Strengthen cloud infrastructure knowledge
-* Learn advanced DevOps & SRE practices
-* Contribute to infrastructure-oriented engineering projects
+```yaml
+2026_focus:
+  - Backend Scalability
+  - Distributed Systems
+  - Cloud-Native Infrastructure
+  - Observability Engineering
+  - Production-Grade Architectures
+```
 
 ---
 
 <div align="center">
 
-### "Reliable systems are engineered, not accidental."
+### “Reliable systems are engineered, not accidental.”
 
 </div>
+::: :contentReference[oaicite:2]{index=2}
+::contentReference[oaicite:3]{index=3}
