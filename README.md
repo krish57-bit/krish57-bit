@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1120,50:111827,100:2563EB&text=Krish%20Kaul&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=56&desc=Backend%20Engineer%20•%20Distributed%20Systems%20•%20Cloud%20Infrastructure&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1120,45:111827,100:2563EB&text=Krish%20Kaul&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=56&desc=Backend%20Engineer%20•%20Distributed%20Systems%20•%20Cloud%20Infrastructure&descAlignY=58&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -36,7 +36,7 @@
 
 ```yaml
 name: Krish Kaul
-education: Electronics & Computer Engineering @ TIET
+education: B.E. Electronics & Computer Engineering @ TIET
 location: Patiala, India
 
 focus:
@@ -63,13 +63,27 @@ problem_solving:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,ts,nodejs,express,django,react,nextjs,mongodb,postgres,mysql,redis,docker,aws,kubernetes,linux,git,github,postman,tensorflow&perline=11" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,ts,nodejs,express,django,fastapi,react,nextjs,mongodb,postgres,mysql,redis,docker,aws,kubernetes,linux,git,github,postman,tensorflow&perline=11" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Kafka-111827?style=flat-square&logo=apachekafka&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MQTT-111827?style=flat-square&logo=eclipsemosquitto&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CI/CD-111827?style=flat-square&logo=githubactions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=orange"/>
+
+<img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=white"/>
 
 </div>
 
 ---
 
-# Featured Projects
+# Featured Engineering Projects
 
 ## PARAKH — Real-Time IoT Monitoring System
 
@@ -190,5 +204,5 @@ problem_solving:
 ### “Reliable systems are engineered, not accidental.”
 
 </div>
-::: :contentReference[oaicite:2]{index=2}
-::contentReference[oaicite:3]{index=3}
+::: :contentReference[oaicite:0]{index=0}
+::contentReference[oaicite:1]{index=1}
